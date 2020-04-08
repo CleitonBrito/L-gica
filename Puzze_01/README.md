@@ -91,7 +91,7 @@ Alterando pelos valores ficaria:
 
   5      +      19      *    2
   
-Repeitando a ordem de precedência da Matemática, resolve-se primeiro a multiplicação e depois a soma:
+Respeitando a ordem de precedência da Matemática, resolve-se primeiro a multiplicação e depois a soma:
 
 5 + 19 * 2
 5 + 38
