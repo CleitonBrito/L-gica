@@ -58,7 +58,7 @@ Y + Y + 5 = 13
 Y = 8 / 2
 Y = 4
 
-Opa! O par de gravatas equivale a 5.
+Opa! O par de gravatas equivale a 4.
 
 Isso quer dizer que:
 Y / 2 = ?
